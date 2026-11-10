@@ -14,7 +14,7 @@ var _fotoRoutes = require('./routes/fotoRoutes'); var _fotoRoutes2 = _interopReq
 
 const whiteList = [
   'https://react1.otaviomiranda.com.br',
-  'https://react2.otaviomiranda.com.br',
+  // 'https://react2.otaviomiranda.com.br',
   'http://localhost:3000',
 ];
 
